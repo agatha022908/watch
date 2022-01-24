@@ -83,7 +83,7 @@ function secunds() {
         stopWatchhours.innerHTML = 0
     }
     
-    setTimeout(secunds, 100);
+    setTimeout(secunds, 1000);
 }
 
 secunds()
